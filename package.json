@@ -1,6 +1,6 @@
 {
   "name": "@bwnl/shiny-inline",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": ":stars: Shiny inline css configs",
   "main": "index.js",
   "directories": {
@@ -21,8 +21,8 @@
   "homepage": "https://github.com/SudoDotDog/BWNL-Shiny-Inline#readme",
   "dependencies": {},
   "devDependencies": {
-    "@sudoo/io": "^1.6.2",
-    "@sudoo/triforce": "^2.1.0"
+    "@sudoo/io": "^1.7.0",
+    "@sudoo/triforce": "^2.2.1"
   },
   "nyc": {
     "extension": [
