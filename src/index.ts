@@ -5,5 +5,6 @@
  */
 
 export * from "./color";
+export * from "./convert";
 export * from "./font";
 
