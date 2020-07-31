@@ -2,10 +2,6 @@
   "name": "@bwnl/shiny-inline",
   "version": "1.3.0",
   "description": ":stars: Shiny inline css configs",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SudoDotDog/BWNL-Shiny-Inline.git"
