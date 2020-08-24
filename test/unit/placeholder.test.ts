@@ -6,8 +6,11 @@
  */
 
 import { expect } from 'chai';
+import * as Chance from "chance";
 
 describe('Placeholder', (): void => {
+
+    const chance: Chance.Chance = new Chance('shiny-color');
 
     it('Placeholder', (): void => {
 
