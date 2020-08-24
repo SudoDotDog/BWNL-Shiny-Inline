@@ -6,3 +6,11 @@
 [![downloads](https://img.shields.io/npm/dm/@bwnl/shiny-inline.svg)](https://www.npmjs.com/package/@bwnl/shiny-inline)
 
 :stars: Shiny inline css configs
+
+## Install
+
+```sh
+npm install @bwnl/shiny-inline --save
+# Or
+yarn add @bwnl/shiny-inline
+```
